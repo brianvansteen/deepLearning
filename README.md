@@ -1,6 +1,6 @@
 # Deep Learning
 
-## Multi-label classification
+### Multi-label classification
 
 #### Final project, MLNN
 
